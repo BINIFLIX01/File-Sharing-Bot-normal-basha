@@ -32,7 +32,7 @@ DB_URI = "mongodb+srv://bot:HX9sva9z4s8VDOzR@cluster.pgjq3f6.mongodb.net/?retryW
 DB_NAME = "Cluster"
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = -1001616325506
+FORCE_SUB_CHANNEL = '-1001616325506'
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
