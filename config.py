@@ -19,7 +19,7 @@ APP_ID = 24237243
 API_HASH = "c7dad6597c88f034d5c360d8a0320869"
 
 #Your db channel Id
-CHANNEL_ID = "-1001800818629"
+CHANNEL_ID = -1001800818629
 
 #OWNER ID
 OWNER_ID = 1842325240
@@ -32,7 +32,7 @@ DB_URI = "mongodb+srv://bot:HX9sva9z4s8VDOzR@cluster.pgjq3f6.mongodb.net/?retryW
 DB_NAME = "Cluster"
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = "-1001602256744"
+FORCE_SUB_CHANNEL = -1001616325506
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
